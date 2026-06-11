@@ -81,20 +81,20 @@ Backend Developer with a solid foundation in building **scalable and efficient s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogeshgurjar119&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=yogeshgurjar119&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="170">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshgurjar119&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="170">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshgurjar119&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
+<img src="https://streak-stats.demolab.com/?user=yogeshgurjar119&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=yogeshgurjar119&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshgurjar119&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%">
 
 </div>
 
