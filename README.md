@@ -49,19 +49,19 @@ Backend Developer with a solid foundation in building **scalable and efficient s
 <!-- ============================ GITHUB STATS ============================ -->
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogeshgurjar119&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshgurjar119&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yogeshgurjar119&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <!-- ============================ TROPHIES ============================ -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yogeshgurjar119&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</p>
+</p> -->
 
 <br>
 
