@@ -1,24 +1,24 @@
-<div align="center">
+<!-- ============================ HEADER BANNER ============================ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=200&section=header&text=Yogesh%20Gurjar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-# Hi, I'm Yogesh Gurjar 👋
+<!-- ============================ TYPING ANIMATION ============================ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&color=36BCF7&lines=Backend+Developer;Node.js+%7C+Laravel+%7C+Full-Stack+Engineer;Building+Scalable+Server-Side+Systems;REST+APIs+%7C+Microservices+%7C+Clean+Code" alt="Typing SVG" />
+</p>
 
-### Backend Developer | Node.js · Laravel · Full-Stack Engineer
-
-*Building scalable server-side systems and seamless user experiences*
+<!-- ============================ SOCIAL BADGES ============================ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/yogesh-gurjar-ba4a191b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yogeshgurjar119@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/yogesh_"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/yogeshgurjar119"><img src="https://img.shields.io/github/followers/yogeshgurjar119?label=Follow&style=for-the-badge&logo=github&color=181717" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yogeshgurjar119&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-gurjar-ba4a191b2/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yogeshgurjar119@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yogesh_)
-[![GitHub followers](https://img.shields.io/github/followers/yogeshgurjar119?label=Follow&style=flat-square&logo=github)](https://github.com/yogeshgurjar119)
-[![Profile Views](https://komarev.com/ghpvc/?username=yogeshgurjar119&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/yogeshgurjar119)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
+<!-- ============================ ABOUT ME ============================ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 Backend Developer with a solid foundation in building **scalable and efficient systems**. I specialize in crafting robust server-side solutions with **Node.js** and **PHP Laravel**, while also working across the frontend with **ReactJS** and **Angular** to deliver complete, polished products.
 
@@ -27,79 +27,93 @@ Backend Developer with a solid foundation in building **scalable and efficient s
 - ⚙️ **Full-Stack** — End-to-end solutions from database to deployment
 - 🛠️ **Open Source** — Handy tools and reusable components for developers
 
----
+<br>
 
+<!-- ============================ TECH STACK ============================ -->
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,php,python,html,css,nodejs,laravel,flask,sequelize,react,angular,vite,mongodb,mysql,sqlite,aws,gcp,vercel,nginx,git,github,postman,npm&perline=8" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-**Backend & Frameworks**
+<br>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
-
-**Tools & Libraries**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
----
-
+<!-- ============================ GITHUB STATS ============================ -->
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshgurjar119&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshgurjar119&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogeshgurjar119&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshgurjar119&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="170">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yogeshgurjar119&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=yogeshgurjar119&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
+<!-- ============================ TROPHIES ============================ -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yogeshgurjar119&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</p>
 
-</div>
+<br>
 
----
+<!-- ============================ PROFILE SUMMARY CARDS ============================ -->
+## 📋 GitHub Profile Summary
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogeshgurjar119&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshgurjar119&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogeshgurjar119&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yogeshgurjar119&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yogeshgurjar119&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<br>
+
+<!-- ============================ ACTIVITY GRAPH ============================ -->
 ## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshgurjar119&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshgurjar119&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%">
+<br>
 
-</div>
+<!-- ============================ SNAKE (theme-adaptive) ============================ -->
+## 🐍 Contribution Snake
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogeshgurjar119/yogeshgurjar119/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogeshgurjar119/yogeshgurjar119/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/yogeshgurjar119/yogeshgurjar119/output/github-snake.svg" />
+  </picture>
+</p>
 
+<br>
+
+<!-- ============================ DEV QUOTE ============================ -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<br>
+
+<!-- ============================ CLOSING CTA ============================ -->
 <div align="center">
 
 ### 💬 Let's Build Something Great Together
@@ -108,6 +122,9 @@ Open to collaboration, freelance projects, and interesting conversations about b
 
 **⭐ If you find my work useful, consider starring my repositories — it helps a lot!**
 
-[![GitHub](https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshgurjar119?tab=repositories)
+<a href="https://github.com/yogeshgurjar119?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
+
+<!-- ============================ FOOTER BANNER ============================ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer" />
